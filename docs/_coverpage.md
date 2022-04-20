@@ -8,5 +8,5 @@
 
 [![](https://res.mowangblog.top/img/2021/10/bilibili-video-orange)](https://www.bilibili.com/video/BV1Ry4y1574R)
 
-[GitHub](https://github.com/mowangblog/SpringMVC-Demo)
+[GitHub](https://github.com/mjmiki/Document-Springmvc)
 [开始阅读](?id=spring-mvc-demo)
